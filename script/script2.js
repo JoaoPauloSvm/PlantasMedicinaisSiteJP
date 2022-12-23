@@ -17,7 +17,7 @@ fetch('./json/planta2.json')
       img.src = `./img/${vector.image}`;
       img.classList.add('card-img-top');
       img.classList.add('tam');
-      img.alt = vector.title;
+      img.alt = `Imagem de ${vector.title}`;
 
       const cardBody = document.createElement('div');
       cardBody.classList.add('card-body');
