@@ -100,3 +100,15 @@ fetch('./json/planta.json')
       elementoA.appendChild(modal);
     }
   });
+
+
+const horaAtual = new Date().getHours();
+const mensagem = document.getElementById('dia');
+
+if (horaAtual >= 6 && horaAtual < 12) {
+  mensagem.innerHTML = "Bom dia!";
+} else if (horaAtual >= 12 && horaAtual < 18) {
+  mensagem.innerHTML = "Boa tarde!";
+} else {
+  mensagem.innerHTML = "Boa noite!";
+}
