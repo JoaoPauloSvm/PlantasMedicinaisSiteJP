@@ -1,12 +1,12 @@
 const elementoA = document.querySelector('.a');
 
-fetch('./json/planta2.json')
+fetch('./json/planta.json')
   .then(response => response.json())
   .then(json => {
     // Ordem alfabetica
     json.vectors.sort((a, b) => a.title.localeCompare(b.title));
 
-    for (let i = 0; i < 16; i++) {
+    for (let i = 16; i < 32; i++) {
       const vector = json.vectors[i];
 
       const card = document.createElement('div');
