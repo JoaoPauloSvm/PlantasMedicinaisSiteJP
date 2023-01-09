@@ -19,6 +19,14 @@ fetch('./json/planta.json')
       img.classList.add('tam');
       img.alt = `Imagem de ${vector.title}`;
 
+      const p = document.createElement('p');
+      p.classList.add('card-text');
+      p.classList.add('opacity-75');
+      p.style.fontSize = '12px';
+      p.style.textAlign = 'center';
+      p.style.marginBottom = '0px';
+      p.innerHTML = `<b>Foto: </b>${vector.referencia}`;
+
       const cardBody = document.createElement('div');
       cardBody.classList.add('card-body');
 
@@ -94,6 +102,7 @@ fetch('./json/planta.json')
       cardBody.appendChild(h5);
       cardBody.appendChild(button);
       card.appendChild(img);
+      card.appendChild(p);
       card.appendChild(cardBody);
 
       elementoA.appendChild(card);

@@ -6,7 +6,8 @@
       "uso": "A orientação é consumir cerca de 50 gramas de folhas de hortelã ao dia, o equivalente a duas colheres de sopa.",
       "contraindicacoes": "A hortelã deve ser evitada por pessoas com refluxo grave ou hérnia de hiato, além de grávidas, mulheres a amamentar e crianças com menos de 5 anos",
       "text": "A hortelã auxilia no bom funcionamento das glândulas salivares e das enzimas digestivas, previne o câncer de fígado, além de facilitar o movimento do intestino. Essa planta medicinal alivia o estresse, auxilia no tratamento da depressão e eleva o humor, além de ser um excelente calmante natural.",
-      "image": "./hortela.jpg"
+      "image": "./hortela.jpg",
+      "referencia": "Autoria da Equipe do Projeto"
     },
     {
       "title": "Boldo",
@@ -14,7 +15,8 @@
       "uso": "Infusão - 1 a 3 colheres de chá (1 a 3 g) de folhas secas para 1 xicara de chá (150 mL) de água. Acima de 12 anos tomar 150 mL do infuso, logo após o preparo, 2 a 3 vezes ao dia. Maceração - amassar ou picar 1 a 2 folhas frescas para 1 xicara de chá (150 mL) de água fria e deixar repousar por alguns minutos, 2 a 3 vezes ao dia.",
       "contraindicacoes": "Não deve ser utilizado por gestantes, lactantes, crianças e portadores de obstrução das vias biliares ou cálculos biliares (pedra na vesícula). Não usar no caso de tratamento com metronidazol ou dissulfiram, medicamentos depressores do sistema nervoso central (SNC) e anti-hipertensivos. Doses acima das recomendadas e utilizadas por um período maior do que o recomendado podem causar irritação gástrica.",
       "text": "Estimulante do fígado, da digestão e do apetite, atua na melhora da azia.",
-      "image": "./boldo.jpg"
+      "image": "./boldo.jpg",
+      "referencia": "Autoria da Equipe do Projeto"
     },
     {
       "title": "Camomila",
@@ -30,7 +32,8 @@
       "uso": "IInfusão - 1 a 3 colheres de chá (1 a 3 g) de partes aéreas secas para 1 xícara de chá (150 mL) de água. De 3 a 7 anos tomar 35 mL do infuso 3 a 4 vezes ao dia. De 7 a 12 anos 75 mL do infuso 2 a 3 vezes dia. Acima de 12 anos tomar 150 mL do infuso 2 a 4 vezes dia. Acima de 70 anos tomar 75 mL do infuso 2 a 3 vezes dia.",
       "contraindicacoes": "Gestantes devem evitar o uso, lactantes em caso de hipotensão. Pode aumentar a toxicidade de paracetamol se usado concomitantemente. Doses acimas da recomendada podem causar irritação gástrica, bradicardia e hipotensão.",
       "text": "Antiespasmódica (cólicas uterinas e intestinais), analgésica, antidispéptico, ansiolítico e sedativo leve (calmante e insônia), hipotensora leve, antigripal, expectorante e auxiliar em dor de cabeça. Auxilia em TPM, síndrome do climatério e síndrome do intestino irritável e diarreias.",
-      "image": "./ervacidreira.jpeg"
+      "image": "./ervacidreira.jpeg",
+      "referencia": "Autoria da Equipe do Projeto"
     },
     {
       "title": "Erva de São João",
@@ -46,7 +49,8 @@
       "uso": "A parte utilizada da arnica são as flores que podem ser utilizadas na forma de chá, tintura, pomada ou óleo de aplicação externa.",
       "contraindicacoes": "A arnica é contraindicada para mulheres grávidas e para pessoas com problemas no fígado.",
       "text": "utilizada externamente, no tratamento de calvície, contusões, dores musculares, dores arti-culares, varizes, dores reumáticas, hemorroidas, bolhas nos pés, dor de dente, gengivite e torcicolo.",
-      "image": "./arnica.jpg"
+      "image": "./arnica.jpg",
+      "referencia": "Autoria da Equipe do Projeto"
     },
     {
       "title": "Babosa",
@@ -54,7 +58,8 @@
       "uso": "Cataplasma - Retire uma folha pela base. Cortar a outra extremidade e deixar em pé com a base para baixo por duas horas, para escoar o líquido amarelado e de odor forte. Lavar em água corrente e descascar. Picar o gel e bater em liquidificador por 40 segundos. Deixar em repouso por 15 minutos para que a espuma que se forma diminua. Aplicá-lo diretamente sobre a lesão de 2 a 3 vezes ao dia.",
       "contraindicacoes": "Usar com cautela quando concomitante com antibióticos",
       "text": "ACicatrizante, anti-inflamatório, analgésico, emoliente e antisséptico. Para lesões de pele secundárias a queimaduras térmicas ou químicas (primeiro e segundo graus) e físicas (radioterapia), dermatites (periostomia e outras), eczemas, psoríase, queda de cabelo por seborreia, acne vulgar, celulite e erisipela. Observa-se alívio da dor em queimaduras.",
-      "image": "./barbosa.jpg"
+      "image": "./barbosa.jpg",
+      "referencia": "Autoria da Equipe do Projeto"
     },
     {
       "title": "Alecrim",
@@ -62,7 +67,8 @@
       "uso": "Infusão - 1 colher de sobremesa (2 g) de folhas secas de alecrim para 1 xícara de chá (150 mL) de água ou 30 a 50 g da planta para 1 L de água.. A infusão deve ser tomada, ainda morna, de 2 a 4 vezes ao dia. Para uso externo realizar compressa ou banho.",
       "contraindicacoes": "Usar com cautela quando concomitante com antibióticos",
       "text": "Anti-inflamatório e distúrbios digestivos. Atua no tratamento de fadiga, dores de cabeça, enxaquecas, má circulação, problemas de concentração e memória, distúrbios respiratórios, gripe, febre, contusões, artrite, artrose, cistite, menstruação irregular, cólica menstrual, tensão pré-menstrual (TPM).",
-      "image": "./Alecrim.jpg"
+      "image": "./Alecrim.jpg",
+      "referencia": "Autoria da Equipe do Projeto"
     },
     {
       "title": "Mangericão",
@@ -70,7 +76,8 @@
       "uso": "Infusão com 10 folhas e 1 litro de água. Também pode ser consumido em variados pratos ou apenas a folha.",
       "contraindicacoes": "Não deve ser consumido por gestantes, lactantes, crianças abaixo de 12 anos, pessoas com pressão muito baixa.",
       "text": "Reduz a perda de memória associada ao estresse e ao envelhecimento. Melhora o açúcar no sangue em jejum, colesterol e triglicerídeos. Auxilia no controle da pressão em hipertensos e na eliminação de toxinas. Ação antibacteriana e analgésica.",
-      "image": "./mangericao.jpg"
+      "image": "./mangericao.jpg",
+      "referencia": "Autoria da Equipe do Projeto"
     },
     {
       "title": "Quebra Pedra",
@@ -78,7 +85,8 @@
       "uso": "Infusão: 20 a 30 g por litro de água. Tomar 1 a 2 xícaras ao dia. Extrato seco: 350 mg até três vezes ao dia.",
       "contraindicacoes": "Contraindicado para crianças menores de 6 anos, gestantes e lactantes.",
       "text": "Propriedades analgésicas e anti-inflamatórias. Indicado em casos de infecções do trato urinário: litíase renal, cólicas, cistites, nefrites, pielites, hidropsia, doenças crônicas; diabetes, como hipoglicemiantes; distúrbios prostáticos;",
-      "image": "./quebraPedra.jpg"
+      "image": "./quebraPedra.jpg",
+      "referencia": "Autoria da Equipe do Projeto"
     },
     {
       "title": "Canela de Velho",
@@ -126,7 +134,8 @@
       "uso": "Infusão 20g para 1 litro de água.",
       "contraindicacoes": "Contra indicado para gestantes e lactantes.",
       "text": "Ela é utilizada contra diarreia, inflamações, tosse, gripe, feridas, cólicas, afecções de pele, além de possuir ação antibiótica, pois essa planta é composto com ação cicatrizante, antibacteriana, antifúngica, antioxidante, anti-inflamatória, antitumoral, analgésica, diurética e digestiva.",
-        "image": "./terramicina.jpg"
+        "image": "./terramicina.jpg",
+        "referencia": "Autoria da Equipe do Projeto"
     },
     {
       "title": "Arruda",
@@ -134,7 +143,8 @@
       "uso": "Infusão de uma colher de chá de folhas secas de arruda em 1 xícara de água fervente e deixar por cerca de 15 a 20 minutos.",
         "contraindicacoes": "Contra indicado para gestantes e lactantes. O consumo de grandes quantidades podem levar ao aparecimento de efeitos adversos, como tremores, gastroenterites, convulsões, vômito, dor abdominal, salivação e fotossensibilidade.",
         "text": "Pode ser utilizada para auxiliar no tratamento de varizes, nas infestações por parasitas, como piolhos e pulgas, ou no alívio das dores menstruais e alterações no ciclo menstrual, como amenorreia ou menorragia, além de ter propriedades  analgésicas, calmantes, cicatrizantes, anti-inflamatória, antirreumática e vermífuga",
-        "image": "./Arruda.jpg"
+        "image": "./Arruda.jpg",
+        "referencia": "Autoria da Equipe do Projeto"
     },
     {
       "title": "Guabiroba",
@@ -142,7 +152,8 @@
       "uso": "Infusão de 30g de folhas em 1 litro de água por 10 minutos.",
         "contraindicacoes": "Evitar consumo exagerado.",
       "text": "Possui ação antidiarreica, antimicrobiana, hipocolesterolemiante e diurética. Utilizada ara reduzir triglicerídeos e colesterol. Eficaz no tratamento de cistites, uretrites e diabetes.",
-        "image": "./guabiroba.jpg"
+        "image": "./guabiroba.jpg",
+        "referencia": "Autoria da Equipe do Projeto"
     },
     {
       "title": "Pitangueira",
@@ -150,7 +161,8 @@
       "uso": "Infusão de 30g de folhas em 1 litro de água por 10 minutos.",
       "contraindicacoes": "Evitar consumo exagerado.",
       "text": "Possui ação antidiarreica, adstringente, digestiva, diurética, antifebril, antiespasmódica, antirreumática, estimulante, fortificante, sudorífera. Utilizada para tratar cólica de menstruação, dores de estômago, diarreia, colesterol e diabetes.",
-        "image": "./pitangueira.jpg"
+        "image": "./pitangueira.jpg",
+        "referencia": "Autoria da Equipe do Projeto"
     },
     {
       "title": "Pata de vaca",
@@ -158,7 +170,8 @@
       "uso": "Infusão de 1 colher de sobremesa em 150ml de água por 3 minutos.",
       "contraindicacoes": "A pata de vaca não deve ser usada por crianças com menos de 12 anos, gestantes ou lactantes. Além disso, a pata de vaca não deve ser usada por pessoas que sofrem regularmente de hipoglicemia, uma vez que essa planta medicinal pode diminuir ainda mais a quantidade de glicose no sangue.",
       "text": "Possui ação diurética; hipoglicemiante, em pacientes diabéticos; e hipocolesterolemiante. Indicada no tratamento de cálculos renais, cistites, diarreias, má circulação do sangue, parasitoses intestinais e elefantíase.",
-      "image": "./patadeVaca.jpg"
+      "image": "./patadeVaca.jpg",
+      "referencia": "Autoria da Equipe do Projeto"
     },
     {
       "title": "Carqueja",
@@ -174,7 +187,8 @@
       "uso": "1 colher de sopa de folhas para 1 xícara de chá (200ml) de água.",
       "contraindicacoes": "Não indicado para menores de 12 anos. Evitar o uso durante a gravidez, lactação, insuficiência renal, epilepsia e tumores estrógeno-dependentes. Irritação tópica pode ocorrer em pacientes sensíveis.",
       "text": "Antisséptica, infecções das vias respiratórias, tosse, rouquidão e estomatite, faringite e aftas. Dispepsias, anti-inflamatória indicada na síndrome do climatério, irregularidades menstruais. Estimula o apetite e estudos comprovam melhorar a memória em idosos.",
-      "image": "./salvia.jpg"
+      "image": "./salvia.jpg",
+      "referencia": "Autoria da Equipe do Projeto"
     },
     {
       "title": "Funcho",
@@ -182,7 +196,8 @@
       "uso": "Infusão: 10 a 30 g/L, infundindo por 10 minutos. Uma xícara depois das refeições. Extrato seco solúvel: Adultos: dissolver 6g (1colher sobremesa) em 200 mL de água. Crianças: 3g (1 colher café) em 100mL de água.",
       "contraindicacoes": "Em doses elevadas, o anetol presente no óleo essencial, é neurotóxico, com um possível efeito convulsivante, além de potencializar o sono em pacientes que façam uso de pentobarbital. É contraindicado o uso em síndromes que promovam o hiperestrogenismo. Não se recomenda a administração por via interna durante a gravidez, para crianças menores de seis anos de idade, para pacientes com gastrite, úlceras gastroduodenais, síndrome do cólon irritável, colites ulcerosas, doença de Crohn, afecções hepáticas, epilepsia, doença de Parkinson, ou outras enfermidades neurológicas. Não utilizar topicamente em crianças pequenas e pessoas com alergias respiratórias ou hipersensibilidade a óleos essenciais ",
       "text": "Os frutos do Funcho são indicados na inapetência, nas dispepsias hiposecretoras, na flatulência, nos espasmos gastrintestinais, nas diarreias, na dismenorréia, nas dores musculares e reumáticas, na bronquite, na asma e para estimular lactação. É muito utilizada como aromatizante. O óleo essencial produz um efeito carminativo ao estimular a motilidade gástrica, é eupéptico, antiespasmódico, estrogênico, antisséptico, mucolítico e expectorante. Em doses elevadas é emenagogo. É estimulante da secreção láctea. Externamente é anti-inflamatório e reepitelizante. Na culinária, os frutos, denominados popularmente de sementes, são utilizados para condimentar e aromatizar pães, bolos e biscoitos. Além disso, o óleo essencial é utilizado na cosmética e perfumaria ",
-      "image": "./funcho.jpg"
+      "image": "./funcho.jpg",
+      "referencia": "Autoria da Equipe do Projeto"
     },
     {
       "title": "Planta 8",
