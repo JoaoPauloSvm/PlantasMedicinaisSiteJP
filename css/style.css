@@ -1,3 +1,13 @@
+<<<<<<< HEAD
+=======
+body{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+>>>>>>> master
 .a{
     margin-top: 125px;
     margin-bottom: 20px;
@@ -20,11 +30,17 @@
 
 footer{
     width: 100%;
+<<<<<<< HEAD
     height: 7.2rem;
     display: flex;
     justify-content: space-between;
     align-items: center;
     padding: 20px 10px;
+=======
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+>>>>>>> master
 }
 footer>a{
     text-decoration: none;
@@ -111,4 +127,9 @@ p{
 
 .tam{
     height: 150px;
+<<<<<<< HEAD
+=======
+    object-fit: cover;
+    object-position: center;
+>>>>>>> master
 }

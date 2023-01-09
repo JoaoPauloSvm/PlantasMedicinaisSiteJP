@@ -1,12 +1,20 @@
 const elementoA = document.querySelector('.a');
 
+<<<<<<< HEAD
 fetch('./json/planta2.json')
+=======
+fetch('./json/planta.json')
+>>>>>>> master
   .then(response => response.json())
   .then(json => {
     // Ordem alfabetica
     json.vectors.sort((a, b) => a.title.localeCompare(b.title));
 
+<<<<<<< HEAD
     for (let i = 0; i < 16; i++) {
+=======
+    for (let i = 16; i < 32; i++) {
+>>>>>>> master
       const vector = json.vectors[i];
 
       const card = document.createElement('div');
@@ -17,7 +25,19 @@ fetch('./json/planta2.json')
       img.src = `./img/${vector.image}`;
       img.classList.add('card-img-top');
       img.classList.add('tam');
+<<<<<<< HEAD
       img.alt = vector.title;
+=======
+      img.alt = `Imagem de ${vector.title}`;
+
+      const p = document.createElement('p');
+      p.classList.add('card-text');
+      p.classList.add('opacity-75');
+      p.style.fontSize = '12px';
+      p.style.textAlign = 'center';
+      p.style.marginBottom = '0px';
+      p.innerHTML = `<b>Foto: </b>${vector.referencia}`;
+>>>>>>> master
 
       const cardBody = document.createElement('div');
       cardBody.classList.add('card-body');
@@ -94,6 +114,10 @@ fetch('./json/planta2.json')
       cardBody.appendChild(h5);
       cardBody.appendChild(button);
       card.appendChild(img);
+<<<<<<< HEAD
+=======
+      card.appendChild(p);
+>>>>>>> master
       card.appendChild(cardBody);
 
       elementoA.appendChild(card);

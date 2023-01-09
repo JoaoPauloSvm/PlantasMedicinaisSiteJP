@@ -17,7 +17,19 @@ fetch('./json/planta.json')
       img.src = `./img/${vector.image}`;
       img.classList.add('card-img-top');
       img.classList.add('tam');
+<<<<<<< HEAD
       img.alt = vector.title;
+=======
+      img.alt = `Imagem de ${vector.title}`;
+
+      const p = document.createElement('p');
+      p.classList.add('card-text');
+      p.classList.add('opacity-75');
+      p.style.fontSize = '12px';
+      p.style.textAlign = 'center';
+      p.style.marginBottom = '0px';
+      p.innerHTML = `<b>Foto: </b>${vector.referencia}`;
+>>>>>>> master
 
       const cardBody = document.createElement('div');
       cardBody.classList.add('card-body');
@@ -94,9 +106,28 @@ fetch('./json/planta.json')
       cardBody.appendChild(h5);
       cardBody.appendChild(button);
       card.appendChild(img);
+<<<<<<< HEAD
+=======
+      card.appendChild(p);
+>>>>>>> master
       card.appendChild(cardBody);
 
       elementoA.appendChild(card);
       elementoA.appendChild(modal);
     }
   });
+<<<<<<< HEAD
+=======
+
+
+const horaAtual = new Date().getHours();
+const mensagem = document.getElementById('dia');
+
+if (horaAtual >= 6 && horaAtual < 12) {
+  mensagem.innerHTML = "Bom dia!";
+} else if (horaAtual >= 12 && horaAtual < 18) {
+  mensagem.innerHTML = "Boa tarde!";
+} else {
+  mensagem.innerHTML = "Boa noite!";
+}
+>>>>>>> master

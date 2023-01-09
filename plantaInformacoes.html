@@ -5,6 +5,10 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<<<<<<< HEAD
+=======
+    <meta name="author" content= "João Paulo Souza dos Santos">
+>>>>>>> master
     <title>Informações das plantas</title>
     <link rel="shortcut icon" href="./img/logoIcone/plantar.png" type="image/x-icon">
     <link rel="stylesheet" href="./css/style.css">
@@ -13,6 +17,7 @@
 
 <body>
 
+<<<<<<< HEAD
     <nav class="navbar bg-success fixed-top">
         <div class="container-fluid">
             <a class="navbar-brand text-light delta" href="./home.html"><b>Plantas Medicinais</b></a>
@@ -69,5 +74,86 @@
 
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"></script>
 <script src="./script/script.js"></script>
+=======
+    <nav class=" fixed-top navbar navbar-expand-lg bg-success">
+        <div class="container-fluid">
+            <a class="navbar-brand text-light delta" href="./home.html"><b>Plantas Medicinais</b></a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
+                data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false"
+                aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                    <li class="nav-item">
+                        <a class="nav-link active text-light delta" align="center" aria-current="page"
+                            href="./plantaInformacoes.html"><b>PLANTAS</b></a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link active text-light delta" align="center" aria-current="page"
+                            href="./quemsomosNos.html"><b>QUEM SOMOS
+                                NÓS?</b></a>
+
+                </ul>
+                <form class="d-flex" role="search" onsubmit="filterVectors(); return false;">
+                    <input id="searchInput" class="form-control me-2" type="search" placeholder="Busca de Plantas"
+                        aria-label="Search">
+                </form>
+            </div>
+        </div>
+    </nav>    
+
+    <div class="a"></div>
+
+    <nav aria-label="Page navigation example">
+        <ul class="pagination justify-content-center">
+
+            <li class="page-item"><a class="page-link" href="#">1</a></li>
+            <li class="page-item"><a class="page-link" href="./plantaInformacoes2.html">2</a></li>
+        </ul>
+    </nav>
+
+
+    <footer class="bg-success">
+        <a href="https://www.ifsudestemg.edu.br/" target="_blank">
+            <div class="fundo">
+                <img class="logo" src="./img/logoIcone/logo.png" alt="Logo Instituto">
+            </div>
+        </a>
+        <a href="https://goo.gl/maps/ndhoC6UwuxFxoXos5" target="_blank"><img src="./img/logoIcone/maps.png"
+                class="logo1" alt="Mapa Instituto"></a>
+    </footer>
+</body>
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"></script>
+<script src="./script/script.js"></script>
+
+<script>
+    function filterVectors() {
+        var searchValue = document.getElementById("searchInput").value.toLowerCase();
+
+        searchValue = searchValue.normalize("NFD").replace(/[\u0300-\u036f]/g, "");
+
+        var vectors = document.querySelectorAll('.a .card');
+
+        for (var i = 0; i < vectors.length; i++) {
+
+            var vectorTitle = vectors[i].querySelector('.card-title').textContent.toLowerCase();
+
+            vectorTitle = vectorTitle.normalize("NFD").replace(/[\u0300-\u036f]/g, "");
+
+            if (vectorTitle.startsWith(searchValue)) {
+
+                vectors[i].style.display = "block";
+            } else {
+
+                vectors[i].style.display = "none";
+            }
+        }
+    }
+
+    document.getElementById("searchInput").addEventListener("input", filterVectors);
+</script>
+>>>>>>> master
 
 </html>
