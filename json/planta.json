@@ -114,7 +114,8 @@
       "uso": "Contra infecções das vias aéreas, fazer gargarejo de seu chá, 2 a 3 vezes por dia (2 colheres de sopa das folhas picadas para 1 xícara de chá de água fervente). Para dores de garganta tomar 3 x ao dia a infusão de 1 colher de sopa de folhas picadas para 1 xícara de chá de água fervente. cataplasma preparado com folhas amassadas, misturado com glicerina e aplicado sobre feridas, queimaduras e picadas de insetos para prostatites, é indicado banho de assento, de duração de 20 minutos, 2 vezes por dia, preparado através da fervura de 5 colheres de sopa de folhas picadas em 1 litro de água.",
       "contraindicacoes": "Não é indicado para grávidas, lactantes e pessoas com problemas cardiovasculares.",
       "text": "Ação diurética, antidiarreica, expectorante, hemostática e cicatrizante. empregada contra infecções das vias respiratórias superiores (faringite, amigdalite, estomatite), bronquite crônica e como auxiliar no tratamento de úlceras pépticas. Também são empregadas, contra conjuntivite e irritações oculares devidas a traumatismos. Utilizada para tratar afecções de pele (acne e cravos), queimaduras e picadas de insetos. Usada como auxiliar no tratamento dos que querem deixar do hábito de fumar.",
-      "image": "./download (2).jpg"
+      "image": "./tanchagem.jpeg",
+      "referencia": "Autoria de Saber Viver Mais"
     },
     {
       "title": "Cavalinha",
@@ -225,12 +226,13 @@
       "referencia": "Autoria da Equipe do Projeto"
     },
     {
-      "title": "Planta 10",
-      "nomeCientifico": "Lorem Ipsum",
-      "uso": "quantidade e como usar",
-      "contraindicacoes": "Coloque as contraindicacoes",
-      "text": "Texto 10",
-      "image": "./download (2).jpg"
+      "title": "Melão de São Caetano",
+      "nomeCientifico": "Momordica charantia L.",
+      "uso": "Infusão, suco, compressas, banhos, extrato e tintura. Para o preparo do chá é utilizada uma colher de sobremesa de folhas picadas para uma xícara de água (aproximadamente 200 ml). Já para o preparo do suco, caso o melão seja pequeno, utilize dois, caso contrário utilize a metade de um. Bata com água e beba preferencialmente pela manhã.",
+      "contraindicacoes": "não é indicado para grávidas, mulheres em período de amamentação e crianças. Não utilizar as folhas por via oral, pois podem causar coma hipoglicêmico (baixa acentuada de glicose no sangue) e convulsões em crianças. Pacientes com problemas no fígado devem consultar um médico antes de fazer uso da planta. ",
+      "text": "A farmacopeia brasileira indica seu uso externo no tratamento de dermatites, sarna e coceira. A Organização Mundial da Saúde cita outras farmacopeias e documentos recomendando a planta como um agente antidiabético, laxante e tônico.",
+      "image": "./melaoSaoCaetano.jpg",
+      "referencia": "Getty Images"
     },
     {
       "title": "Planta 11",
